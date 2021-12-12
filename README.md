@@ -17,7 +17,7 @@ To incorporate effects of Brownian Motion of fluid particles on the Dumbbells an
 the system is described by Langevin Equations.
 Time Propagation Algorithm based on the following paper:
 
-Eric Vanden-Eijnden, Giovanni Ciccotti, *Second-order integrators for Langevin equations with holonomic constraints*, Chemical Physics Letters, Volume 429, Issues 1–3, 2006
+* Eric Vanden-Eijnden, Giovanni Ciccotti, *Second-order integrators for Langevin equations with holonomic constraints*, Chemical Physics Letters, Volume 429, Issues 1–3, 2006
 
 In the absence of temperature/viscosity, equations are identical to Velocity Verlet.
 
@@ -31,4 +31,4 @@ CPU parallelization will be implemented soon.
 
 Integrator, Pair Interactions and Neighbour Lists tested for accuracy using simulations of LJ Fluids. A more extensive benchmark will be performed soon after optimization/parallelization.
 
-Also, a folder containing example simulations (png and mp4 files) and presentation pdf also in repo for reference for now. 
+Also, a folder containing example simulations (png and mp4 files) and presentation pdf also in repo for reference. Will be replaced with proper documentation later. 
