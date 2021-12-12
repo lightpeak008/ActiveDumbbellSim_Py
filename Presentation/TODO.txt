@@ -1,0 +1,25 @@
+ Make a exhaustive literature search on the subject​
+Write/present a good introduction on the subject​
+State clearly the issues involved: issues already resolved and things not yet fully understood​
+Describe the methodology of your study and relevance in the context of the problem​
+Discuss all the results you get​
+Highlights any significant results and its significance​
+Give an outlook as to where do you stand in terms of solving the problem and what should be the next step
+
+
+* Motivation: Chaikin's Paper
+* Details
+* Observations
+
+* Not explained
+* Key Objective
+* Model
+* Potential
+* Langevin Equations
+
+* Implementation
+* Testing For accuracy
+* LJ + Velocity Verlet
+* Langevin Equation
+* Simulating isolated Particle
+* Simulating homogeneous Particle
